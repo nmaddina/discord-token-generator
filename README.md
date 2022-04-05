@@ -11,3 +11,4 @@ Then run the py file
 If you see anyone selling this lemme know asap.
 # This uses requests so yeah
 # Star the repo!
+# Use 2captcha with iproyal sticky proxies and enjoy!
