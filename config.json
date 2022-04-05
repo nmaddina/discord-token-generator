@@ -1,0 +1,10 @@
+{
+    "emailKey": "YOUR_EMAIL_API_KEY",
+    "proxyless": false,
+    "log_exceptions": true,
+    "save_unverified": true,
+    "traceback": false,
+    "password": "IndiansAreGAY12@3",
+    "captcha_api": "2captcha.com",
+    "captcha_key": "YOUR_CAPTCHA_KEY_HERE"
+}

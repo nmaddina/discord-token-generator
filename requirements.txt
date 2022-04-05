@@ -1,0 +1,7 @@
+selenium
+selenium-wire
+undetected_chromedriver
+colorama
+httpx
+opencv-python
+numpy
