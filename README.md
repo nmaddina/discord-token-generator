@@ -10,3 +10,4 @@ Then run the py file
 # Note: 
 If you see anyone selling this lemme know asap.
 # This uses requests so yeah
+# Star the repo!
